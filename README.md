@@ -15,20 +15,33 @@ Anyone wearing specialty contact lenses who needs to track wear time
 
 Keratoconus is an eye disorder in which the cornea, the transparent front part of the eye, gradually thins and bulges outward into a cone shape. This causes distorted vision, including blurry vision, double vision, increased nearsightedness, irregular astigmatism, and light sensitivity, which can reduce quality of life. Both eyes are usually affected.
 
-🖼️ **ScreenShots**
+🖼️ **ScreenShots -**
 
 <table style="width: 100%;">
   <tr>
-    <td align="center"><b>Login Screen</b></td>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Settings</b></td>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Timer</b></td>
+    <td align="center"><b>Reports</b></td>
   </tr>
   <tr>
-    <td><img src="URL_OR_PATH_TO_IMAGE_1" width="250pt" /></td>
-    <td><img src="URL_OR_PATH_TO_IMAGE_2" width="250pt" /></td>
-    <td><img src="URL_OR_PATH_TO_IMAGE_3" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e10152f6-3c74-4f8f-84f0-9e3324a769aa" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a703ad86-d8e1-4d7f-bcbb-193f5e9c859b" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1b87102d-5805-49c2-b6bf-0e5ba799b94c" width="250pt" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>row2</b></td>
+    <td align="center"><b>row2</b></td>
+    <td align="center"><b>row2</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e10152f6-3c74-4f8f-84f0-9e3324a769aa" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a703ad86-d8e1-4d7f-bcbb-193f5e9c859b" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1b87102d-5805-49c2-b6bf-0e5ba799b94c" width="250pt" /></td>
   </tr>
 </table>
+
+
+
 
 ✨** Key Features:**
 
