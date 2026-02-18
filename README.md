@@ -15,6 +15,21 @@ Anyone wearing specialty contact lenses who needs to track wear time
 
 Keratoconus is an eye disorder in which the cornea, the transparent front part of the eye, gradually thins and bulges outward into a cone shape. This causes distorted vision, including blurry vision, double vision, increased nearsightedness, irregular astigmatism, and light sensitivity, which can reduce quality of life. Both eyes are usually affected.
 
+🖼️ **ScreenShots**
+
+<table style="width: 100%;">
+  <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="URL_OR_PATH_TO_IMAGE_1" width="250pt" /></td>
+    <td><img src="URL_OR_PATH_TO_IMAGE_2" width="250pt" /></td>
+    <td><img src="URL_OR_PATH_TO_IMAGE_3" width="250pt" /></td>
+  </tr>
+</table>
+
 ✨** Key Features:**
 
 ⏱️ **Real-Time Timer:**
@@ -39,7 +54,7 @@ Weekly Bar Charts - Daily wear duration with date ranges
 Monthly Bar Charts - Full month overview with scrollable days
 Swipe Navigation - Intuitive gestures to browse historical data
 
-📝** Session Logging:**
+📝**Session Logging:**
 
 Fogging incident tracking
 Manual entry for missed sessions
@@ -85,7 +100,7 @@ Notification Settings
 Reclean reminder: At 50% of target time
 Quiet hours: 9 PM - 4 AM (configurable)
 
-Data Storage
+**💾Data Storage**
 
 Sessions: AsyncStorage
 Backups: JSON export to device storage
